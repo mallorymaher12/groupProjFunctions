@@ -1,0 +1,16 @@
+Package: groupProjFunctions
+Type: Package
+Title: Group Project Functions for R for QBS181
+Version: 0.1.0
+Author: Mallory Maher
+Authors@R: person("Mallory","Maher",email="Mallory.A.Maher.GR@dartmouth.edu",role = c("aut", "cre"))
+Description: We created functions to make the project easier
+License: MIT
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+LazyData: true
+Imports:
+  ggplot2,
+  tidyverse,
+  reshape2
+RoxygenNote: 7.1.2
